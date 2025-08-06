@@ -1,0 +1,49 @@
+---PROMPT structured result JSON --- 
+
+Using the following customer comments:
+
+"The product is very good, but I would like more color options."
+
+"I'm not satisfied with customer service; they take too long to respond."
+
+"The shipping quality was excellent, and the packaging was very secure."
+
+Perform a sentiment analysis and classify each comment into a category. Also, propose actions the company could take to improve its service or products.
+
+Output format:
+
+json
+Copiar
+Editar
+{
+  "comments": [
+    {
+      "id": <number>,
+      "text": "<comment text>",
+      "sentiment": "<positive | negative | neutral>",
+      "category": "<category>",
+      "actions": "<text with recommendations>"
+    },
+    ...
+  ]
+}
+Make sure not to add any text outside of the JSON object. Return only valid JSON.
+
+
+
+
+----- Prompt Excel output-----
+
+Based on the following customer comments:
+
+"The product is very good, but I would like more color options."
+
+"I'm not satisfied with customer service; they take too long to respond."
+
+"The shipping quality was excellent, and the packaging was very secure."
+
+Perform a sentiment analysis and define the category to which each comment belongs. Additionally, propose actions the company could take to improve its service or products.
+
+Output format: Excel file
+
+Make sure not to include any text outside the Excel file. Return only the valid Excel file.
