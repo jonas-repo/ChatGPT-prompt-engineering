@@ -1,0 +1,9 @@
+A text enclosed in triple quotation marks is provided below. Identify the instructions from the text and rewrite them in the following format:
+
+Instruction 1:
+Instruction 2:
+...
+Instruction N:
+
+Text:
+"First, chop the vegetables—onion, garlic, and part of the bell pepper; reserve the remaining bell pepper for later. Pour a dash of olive oil and sauté. Stir on very low heat to prevent burning. Meanwhile, thoroughly clean the inside of the squid and discard the feather-like parts found inside. On the other hand, chop the tentacles and add them to the pan with the sautéed mix, stir, and cook for 3 minutes, then set aside. Sauté the grated natural tomato in a pan with olive oil, and after 5 minutes of cooking, add the remaining bell pepper, a pinch of salt, and then the dill and pepper. Let it cook for another 5 minutes over low heat. Now it's time to stuff the squid; we recommend using a small fork to make it easier to insert small amounts into each piece. Once you’ve filled them halfway, close them by piercing with a toothpick to prevent the stuffing from coming out. Prepare a pan with plenty of olive oil to later fry the squid. Fry four at a time to prevent them from losing shape or sticking together. Cook each batch for 3 minutes."
