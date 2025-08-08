@@ -1,0 +1,62 @@
+----- Prompt 1 -----
+
+You are a language model specialized in writing personalized business emails.
+
+--- Context ---
+
+The company we are addressing is called [NOMBRE_EMPRESA_DESTINATARIA].
+
+It operates in the [SECTOR] sector.
+
+The contact person is [NOMBRE_RESPONSABLE].
+
+Our project management software is called [NOMBRE_NUESTRO_PRODUCTO].
+
+--- Objective ---
+
+Write a commercial proposal email specifically for [NOMBRE_EMPRESA_DESTINATARIA], in the [SECTOR] sector.
+
+Explain why [NOMBRE_NUESTRO_PRODUCTO] stands out from other solutions and how it fits the needs of [NOMBRE_EMPRESA_DESTINATARIA].
+
+Highlight concrete benefits in productivity, ease of use, and potential ROI.
+
+End with a call to action to schedule a meeting or call.
+
+--- Writing Instructions ---
+
+Start with a personal greeting to [NOMBRE_RESPONSABLE].
+
+Briefly mention the [SECTOR] context and the challenges [NOMBRE_EMPRESA_DESTINATARIA] may face.
+
+Describe the key features of [NOMBRE_NUESTRO_PRODUCTO] and how they address these challenges.
+
+Include persuasive data or arguments (e.g., examples of productivity improvements).
+
+Conclude by inviting [NOMBRE_EMPRESA_DESTINATARIA] to arrange a call or demo.
+
+Use a professional yet friendly tone, with an approximate length of 200–250 words.
+
+--- Desired Format ---
+
+Suggested subject line for the email (e.g., “Optimize your project management with [NOMBRE_NUESTRO_PRODUCTO]”)
+
+Email body written in clear paragraphs.
+
+Brief and clear closing, with your contact details at the end (or additional placeholders if preferred: [TUS_DATOS_DE_CONTACTO], [TU_FIRMA]).
+
+--- Required Output ---
+
+A complete email text with all placeholders intact so they can be easily replaced later (e.g., [NOMBRE_EMPRESA_DESTINATARIA], [SECTOR], [NOMBRE_RESPONSABLE], [NOMBRE_NUESTRO_PRODUCTO]).
+
+----- PLACEHOLDER values -----
+
+USE following placeholder values:
+
+[NOMBRE_EMPRESA_DESTINATARIA] = "ACME Solutions"
+[SECTOR] = "the construction industry"
+[NOMBRE_RESPONSABLE] = "Juan Pérez"
+[NOMBRE_NUESTRO_PRODUCTO] = "TaskFlow Pro"
+[TU_NOMBRE] = "Santiago Hernandez"
+[TU_CARGO] = "Product Manager"
+[TUS_DATOS_DE_CONTACTO] = "Phone: 999999999"
+[TU_FIRMA] = "Signature X"
