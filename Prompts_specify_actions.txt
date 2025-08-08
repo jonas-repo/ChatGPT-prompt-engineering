@@ -1,0 +1,19 @@
+----- Prompt 1 -----
+
+I need you to help me design a launch plan for a new software product. We want to launch it next month and we need marketing ideas, promotion channels, and success metrics. To do this, carefully follow these steps (think through and answer each one in detail before moving on to the next):
+
+Objectives: Describe in detail the SMART objectives (specific, measurable, achievable, relevant, and time-bound) for the launch.
+
+Target audience and segmentation: Identify the key audiences, their needs, and how they will be segmented.
+
+Marketing strategy: Provide a comprehensive marketing plan that includes content strategy, social media, influencer marketing, online advertising, etc. Explain the rationale for each channel.
+
+Timeline and budget: Propose a schedule with the main activities and assign an estimated budget for each.
+
+Step-by-step execution plan: Detail the actions to be completed, their owners, and any dependencies between tasks.
+
+Success metrics and KPIs: Explain how you will measure success at each stage (conversions, installs, sales, etc.) and the tools that will be used.
+
+Risks and contingency plans: Mention potential risks and describe a contingency plan to mitigate them.
+
+First, reflect internally on each of these steps and, once you have a clear answer, present it in an organized and coherent manner.
