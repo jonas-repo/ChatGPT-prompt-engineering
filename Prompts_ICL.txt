@@ -1,0 +1,36 @@
+----- Prompt -----
+
+Below you will find two examples of how we usually write meeting emails:
+
+--- EXAMPLE 1 ---
+Subject: Project Review Meeting
+
+Hi Marta,
+
+I hope you’re doing well. I’m writing to invite you to the project ABC review meeting, which will take place on Tuesday, February 14 at 11:00 a.m. in meeting room 2. We will review the completed milestones and plan the next ones.
+
+Please confirm your attendance.
+
+Thank you and best regards,
+
+[Your name]
+[Position]
+[Company]
+--- END OF EXAMPLE 1 ---
+
+--- EXAMPLE 2 ---
+Subject: Meeting with the Sales Team
+
+Hi Carlos,
+
+I’m writing to invite you to the meeting with the Sales team on Wednesday, February 15 at 9:30 a.m. in the main room. We will discuss this month’s progress and define the goals for the next quarter.
+
+Please confirm if you can attend.
+
+Regards,
+[Your name]
+[Position]
+[Company]
+--- END OF EXAMPLE 2 ---
+
+Please write an email inviting my colleague Ana to a meeting with client XYZ to review the project’s progress and define the next actions. Include the date and time (Thursday, February 16 at 10:00 a.m.) and use a professional and brief tone.
