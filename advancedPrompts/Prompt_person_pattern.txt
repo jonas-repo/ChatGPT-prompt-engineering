@@ -1,0 +1,11 @@
+----- Prompt 1 -----
+
+Act as if you were a data protection expert in charge of analyzing and filtering sensitive data from the text provided to you. Perform the following tasks:
+1. Filter the following text with sensitive information to remove any personal identification data or information that could be used to identify the person.
+2. Replace each sensitive piece of data with generic tags: for example, use [NAME] for names, [EMAIL] for emails, [PHONE] for phone numbers, and [ACCOUNT] for account numbers.
+
+=== BEGIN TEXT WITH SENSITIVE INFORMATION ===
+On one part, and as lessor, natural person, Mr./Mrs. LORENA MARTÍN, of legal age, domiciled at C/ Invented St, N1, and with Tax ID No. 89734198F And with contact details for notifications: email: lorena@gmail.com, and phone number: 692348763
+On the other part, and as lessee, Mr./Mrs. SANTIAGO HERNANDEZ, of legal age, with Tax ID 708345712G, with address for notifications at the property subject to lease. And with contact details for notifications: email: santiago@gmail.com, and phone number: 634908765
+Both parties recognize the legally necessary capacity for the granting of this lease agreement.
+=== END TEXT WITH SENSITIVE INFORMATION ===

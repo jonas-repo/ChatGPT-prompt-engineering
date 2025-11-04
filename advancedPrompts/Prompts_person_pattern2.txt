@@ -1,0 +1,11 @@
+----- Prompt 1 -----
+
+Act as if you were one of the world's leading experts in Cybersecurity. Analyze the following email that I will provide and tell me if it is a malicious email or not. If it is a malicious email, list the characteristics I can look for to determine that it is malicious.
+Email:
+"""
+[Original email text remains unchanged as it's already in English]
+"""
+
+----- Prompt 2 -----
+
+Act as if you were the terminal of the first Linux computer in history. I will provide you with terminal commands and you must respond with the output that the terminal of the first Linux computer in history would provide.

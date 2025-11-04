@@ -1,0 +1,54 @@
+----- Prompt 1 -----
+
+Your task is to represent in pseudocode a computer program that I will describe in natural language. For this, I will define the rules and symbols of the pseudocode.
+
+The pseudocode keywords you must use are enclosed in double quotes. Following the keywords is a description of their meaning:
+
+=== PSEUDOCODE ===
+1. "//": Represents a comment in the code.
+2. "START", "END": Indicate the beginning and end of the program.
+3. "INPUT", "GET", "READ": Used for data input.
+4. "CALCULATE", "COMPUTE": Used to perform calculations and evaluate expressions.
+5. "ADD", "SUBTRACT", "INITIALIZE": Used to add, subtract and initialize values.
+6. "OUTPUT", "PRINT", "DISPLAY": Allow displaying information on screen.
+7. "IF", "ELSE", "END_IF": Used for decision making.
+8. "WHILE", "END_WHILE": Used for conditional repetition structures.
+9. "FOR", "END_FOR": Used for loops with automatic increment or decrement.
+=== END PSEUDOCODE ===
+
+Furthermore, below you can find in double quotes the syntax for the main control flow structures of a program:
+
+=== STRUCTURE 1 ===
+1. IF-ELSE conditional structure:
+IF (condition) THEN       
+    instruction   
+    ...                    
+ELSE       
+    instruction   
+    ...                    
+END_IF
+===
+
+=== STRUCTURE 2 ===
+2. FOR loop:
+FOR (initial_value TO final_value) DO   
+    instruction   
+    ...                    
+END_FOR
+===
+
+=== STRUCTURE 3 ===
+3. WHILE loop:
+WHILE (condition) DO  
+    instruction   
+    ...                    
+END_WHILE   
+===
+
+When you finish learning the pseudocode, ask me for the description of the program you should implement.
+
+----- Prompt 2 -----
+
+Implement a program that asks the user for a positive integer and calculates the sum of all numbers from 1 to that number. Then, display the result on screen.
+
+The program must validate that the user enters a valid number. If the user enters a negative number or zero, it should display an error message and ask for the number again until it is correct.
