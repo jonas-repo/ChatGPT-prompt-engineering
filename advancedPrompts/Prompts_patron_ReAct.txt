@@ -1,0 +1,45 @@
+----- Prompt 1 -----
+
+Task: Identify if the following security alert is a true positive or a false positive: "Security Alert: Access to a potentially malicious URL has been identified. The identified URL is: https://udemy.com"
+
+Solve the task using the following Reasoning and Action format, showing your thought steps (Thought) and necessary queries (Action):
+
+=== FORMAT EXAMPLE ===
+Task: Identify if the following security alert is a true positive or a false positive: "Security Alert: Access to a potentially malicious URL has been identified. The identified URL is: https://clients.company1.com"
+Thought: I will start by evaluating the URL in the alert to identify possible suspicious elements from a Cybersecurity perspective.
+Action: Analyzing the URL that appears in the alert.
+Result: The website uses a secure HTTPS communication protocol. The website has a domain name. The domain name appears to be from a trusted entity.
+Thought: I will check different malicious URL repositories to see if the alert URL is listed there.
+Action: Checking https://www.urlvoid.com/scan/clients.company1.com
+Result: URLVoid indicates that the URL is not malicious
+Thought: The URL doesn't appear to be malicious. The alert corresponds to a false positive.
+=== END FORMAT EXAMPLE ===
+
+Now apply it to your task!
+
+
+----- Prompt 2 -----
+
+Task: Identify if the following security alert is a true positive or a false positive: "Security Alert: Access to a potentially malicious URL has been identified. The identified URL is: http://15.30.12.134/program.exe"
+
+
+----- Prompt 3 -----
+
+You have an email from a client that says:
+"Hello, I would like to know if my premium plan subscription covers support for advanced server configurations. If so, can you provide me with a link for more details?"
+
+Solve the task using the following Reasoning and Action format, showing your thought steps (Thought) and necessary queries (Action) to the internal database. Finally, close with the response (finish):
+
+=== FORMAT EXAMPLE ===
+[Thought] First I read the email: "Hello, I would like to know if my premium plan subscription covers support for advanced server configurations..."
+[Thought] I need to identify the type of request (premium plan support) and search the internal database for details about premium coverage and documentation links.
+[Action] searchInternalDatabase("Premium plan coverage")
+[Observation] "The premium plan includes basic and advanced technical support, but certain configuration services require an additional fee."
+[Thought] It seems some advanced configurations are covered, but I need to check if there's a specific supplement or requirement.
+[Action] searchInternalDatabase("List of advanced services covered in premium plan")
+[Observation] "Premium plan covers: initial setup, performance tuning, and 24/7 email support..."
+[Thought] With this information, I can now give a clear response.
+[Action] finish("Response to client: Hello! Thank you for contacting us. Indeed, your premium plan covers advanced configurations...")
+=== END FORMAT EXAMPLE ===
+
+Now apply it to the client's email!
